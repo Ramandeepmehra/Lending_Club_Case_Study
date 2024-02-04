@@ -79,11 +79,11 @@ Each row represents the loan details of the applicants.
 
 
 ## Technologies Used
-- Python version: 3.7.3
-- Pandas version: 1.3.4
-- Numpy version: 1.21.5
-- Matplotlib: version 3.1.3
-- Seaborn: version 0.12.2
+- Python version: 3.12.0
+- Pandas version: 2.2.0
+- Numpy version: 1.22.4
+- Matplotlib: version 3.5.3
+- Seaborn: version 0.13.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
