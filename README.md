@@ -89,7 +89,7 @@ Each row represents the loan details of the applicants.
 
 ## Acknowledgements
 
-- Developed as part of the Exloratory Data Analysis required for UpGrad - IIIT ML C60,Bangalore Programme.
+- Developed as part of the Exloratory Data Analysis required for UpGrad - IIIT Bangalore ML C60 Programme.
 
 ## Contact
     Created by [@Ramandeepmehra] - feel free to contact me!
