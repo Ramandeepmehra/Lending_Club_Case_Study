@@ -60,6 +60,23 @@ Each row represents the loan details of the applicants.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Recommendations
+1. Verification and Default Rates:
+- 43.27% of loans were not verified, with 5.55% resulting in defaults.
+- Suggests a need for more thorough verification processes, especially for 10+ years term loans.
+2. Impact of default Year 2007 - 2011:
+- The introduction of credit card loans in 2011 led to a higher percentage of loans granted.
+- Default rates increased, emphasizing the importance of caution when granting loans, especially for 36 months.
+3. Home Ownership and Default Rates:
+- Majority of loans approved for RENT and MORTGAGE home ownership.
+- High default rates in these categories highlight in OTHER and RENT need for careful consideration when granting loans to these homeownership types.
+4. Interest Rates and Default Risk:
+- Higher interest rates are associated with an increased risk of default.
+- Recommends thorough checks and verification before granting loans with higher interest rates.
+5. Loan Amount and Default Rates:
+- Higher loan amounts correlate with higher default rates.
+- Observations show a higher Charged Off rate for larger loans, indicating a potential risk factor.
+
 
 ## Technologies Used
 - Python version: 3.7.3
